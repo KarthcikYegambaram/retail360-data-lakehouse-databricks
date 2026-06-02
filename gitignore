@@ -1,0 +1,21 @@
+# Databricks
+.databricks/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints — never commit
+_checkpoints/
+_delta_log/
+checkpoint/
+
+# Environment & secrets — never commit
+*.env
+.env.*
+secrets.json
+config_local.py
+
+# OS
+.DS_Store
+Thumbs.db
