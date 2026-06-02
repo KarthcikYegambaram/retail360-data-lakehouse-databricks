@@ -196,7 +196,7 @@ CREATE SCHEMA IF NOT EXISTS workspace.retail360;
 
 ---
 
-## 👤 Karthick
+## 👤 Author
 
 **Karthick** — Data Engineer  
 Built as a portfolio project demonstrating Databricks data engineering capabilities.
